@@ -2,7 +2,11 @@
 all the codes and math that has to do with symmetric functions :)
 
 
-Commands
+Commands and steps
+
+
+initialize repo on github
+
 cd ~
 
 mkdir git
